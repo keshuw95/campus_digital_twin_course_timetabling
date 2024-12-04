@@ -1,0 +1,80 @@
+{
+    "386": {
+        "lon": -96.34181184028992,
+        "lat": 30.620858341963572,
+        "abbr": "CHEN",
+        "name": "Jack E. Brown Chem Engn Bldg"
+    },
+    "484": {
+        "lon": -96.33993106447583,
+        "lat": 30.617998991465164,
+        "abbr": "CHEM",
+        "name": "Chemistry Building"
+    },
+    "1543": {
+        "lon": -96.34428323571838,
+        "lat": 30.611973544751592,
+        "abbr": "ILCB",
+        "name": "Innovative Learning Classroom"
+    },
+    "359": {
+        "lon": -96.33830911758582,
+        "lat": 30.61922912869159,
+        "abbr": "ARCB",
+        "name": "Architecture Center, Bldg B"
+    },
+    "1500": {
+        "lon": -96.34607084926098,
+        "lat": 30.61114555145973,
+        "abbr": "ILSQ",
+        "name": "Instr Lab & Innov Learning Ctr"
+    },
+    "1607": {
+        "lon": -96.35245409352463,
+        "lat": 30.597609246301985,
+        "abbr": "ALLN",
+        "name": "Allen Building"
+    },
+    "398": {
+        "lon": -96.33763910653171,
+        "lat": 30.618803876316907,
+        "abbr": "ARCA",
+        "name": "Langford Arch Center A"
+    },
+    "432": {
+        "lon": -96.3379994664378,
+        "lat": 30.619360700033752,
+        "abbr": "ARCC",
+        "name": "Architecture Center, Bldg C"
+    },
+    "468": {
+        "lon": -96.33905556928649,
+        "lat": 30.616612278570177,
+        "abbr": "SCC",
+        "name": "Student Computing Center"
+    },
+    "438": {
+        "lon": -96.34042969920843,
+        "lat": 30.61688442919367,
+        "abbr": "HECC",
+        "name": "Harrington Educ Ctr Classrooms"
+    },
+    "1530": {
+        "lon": -96.34366542314399,
+        "lat": 30.614295003675288,
+        "abbr": "ILSB",
+        "name": "Interdisciplinary Life Sc Bldg"
+    },
+    "443": {
+        "lon": -96.33666140941625,
+        "lat": 30.617726337500713,
+        "abbr": "OMB",
+        "name": "Oceanography & Meteorology"
+    },
+    "476": {
+        "lon": -96.33976839490212,
+        "lat": 30.617313423534853,
+        "abbr": "FRAN",
+        "name": "Francis Hall"
+    }
+}

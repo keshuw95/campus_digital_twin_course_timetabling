@@ -1,0 +1,3155 @@
+{
+    "Origin": {
+        "id": 0,
+        "original_current_course": {
+            "CourseNumb": "Origin",
+            "room": "N/A",
+            "building": "Nagle Hall",
+            "building_location": {
+                "lat": 30.61507082693666,
+                "lon": -96.34047976538754
+            },
+            "start_time": "N/A",
+            "end_time": "N/A",
+            "floor": "N/A",
+            "room_capacity": "N/A",
+            "num_students": "N/A",
+            "occupancy_rate": "N/A"
+        },
+        "original_next_course": {
+            "CourseNumb": 325,
+            "SectionNumb": 500,
+            "SectionID": 46428,
+            "MeetingType": "LEC",
+            "MeetingID": 959440,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "100",
+            "BuildingName": "Chemistry Building",
+            "BuildingNumber": 484.0,
+            "BldgAbbr": "CHEM",
+            "Region": "East Campus",
+            "NumStudents": 260,
+            "StartTimeStr": "10:20",
+            "EndTimeStr": "11:10",
+            "RoomCapacity": 313
+        },
+        "original_options_for_next_course": [
+            {
+                "course_number": 325,
+                "room": "1105",
+                "building": "Interdisciplinary Life Sc Bldg",
+                "building_id": "1530",
+                "building_location": [
+                    30.614295003675288,
+                    -96.34366542314399
+                ],
+                "start_time": "10:20",
+                "end_time": "11:10",
+                "travel_distance": 0.3168245391625225,
+                "travel_time": 3.7717207043157446,
+                "total_floors": 0,
+                "room_capacity": 285,
+                "num_students": 260,
+                "distance_saved": 0.012979109730286487,
+                "time_saved": 0.15451321107483906,
+                "floors_saved": 0,
+                "occupancy_improved": 0.08160977523681401,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 3.0,
+                "metrics": {
+                    "distance_saved": 0.012979109730286487,
+                    "time_saved": 0.15451321107483906,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.08160977523681401,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            },
+            {
+                "course_number": 325,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "10:20",
+                "end_time": "11:10",
+                "travel_distance": 0.5010929435665786,
+                "travel_time": 5.965392185316413,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 260,
+                "distance_saved": -0.17128929467376963,
+                "time_saved": -2.0391582699258297,
+                "floors_saved": 0,
+                "occupancy_improved": -0.4009188604018694,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 0.0,
+                "metrics": {
+                    "distance_saved": -0.17128929467376963,
+                    "time_saved": -2.0391582699258297,
+                    "floors_saved": 0,
+                    "occupancy_improved": -0.4009188604018694,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            }
+        ],
+        "updated_current_course": {
+            "CourseNumb": "Origin",
+            "room": "N/A",
+            "building": "Nagle Hall",
+            "building_location": {
+                "lat": 30.61507082693666,
+                "lon": -96.34047976538754
+            },
+            "start_time": "N/A",
+            "end_time": "N/A",
+            "floor": "N/A",
+            "room_capacity": "N/A",
+            "num_students": "N/A",
+            "occupancy_rate": "N/A"
+        },
+        "updated_options_for_next_course": [
+            {
+                "course_number": 325,
+                "room": "1105",
+                "building": "Interdisciplinary Life Sc Bldg",
+                "building_id": "1530",
+                "building_location": [
+                    30.614295003675288,
+                    -96.34366542314399
+                ],
+                "start_time": "10:20",
+                "end_time": "11:10",
+                "travel_distance": 0.3168245391625225,
+                "travel_time": 3.7717207043157446,
+                "total_floors": 0,
+                "room_capacity": 285,
+                "num_students": 260,
+                "distance_saved": 0.012979109730286487,
+                "time_saved": 0.15451321107483906,
+                "floors_saved": 0,
+                "occupancy_improved": 0.08160977523681401,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 3.0,
+                "metrics": {
+                    "distance_saved": 0.012979109730286487,
+                    "time_saved": 0.15451321107483906,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.08160977523681401,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            },
+            {
+                "course_number": 325,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "10:20",
+                "end_time": "11:10",
+                "travel_distance": 0.5010929435665786,
+                "travel_time": 5.965392185316413,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 260,
+                "distance_saved": -0.17128929467376963,
+                "time_saved": -2.0391582699258297,
+                "floors_saved": 0,
+                "occupancy_improved": -0.4009188604018694,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 0.0,
+                "metrics": {
+                    "distance_saved": -0.17128929467376963,
+                    "time_saved": -2.0391582699258297,
+                    "floors_saved": 0,
+                    "occupancy_improved": -0.4009188604018694,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            }
+        ],
+        "updated_next_course": {
+            "course_number": 325,
+            "room": "1105",
+            "building": "Interdisciplinary Life Sc Bldg",
+            "building_id": "1530",
+            "building_location": [
+                30.614295003675288,
+                -96.34366542314399
+            ],
+            "start_time": "10:20",
+            "end_time": "11:10",
+            "travel_distance": 0.3168245391625225,
+            "travel_time": 3.7717207043157446,
+            "total_floors": 0,
+            "room_capacity": 285,
+            "num_students": 260,
+            "distance_saved": 0.012979109730286487,
+            "time_saved": 0.15451321107483906,
+            "floors_saved": 0,
+            "occupancy_improved": 0.08160977523681401,
+            "distance_saved_normalized": 1.0,
+            "time_saved_normalized": 1.0,
+            "floors_saved_normalized": 0.0,
+            "occupancy_improved_normalized": 1.0,
+            "total_score": 3.0
+        }
+    },
+    "Course_1": {
+        "id": 1,
+        "original_current_course": {
+            "CourseNumb": 325,
+            "SectionNumb": 500,
+            "SectionID": 46428,
+            "MeetingType": "LEC",
+            "MeetingID": 959440,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "100",
+            "BuildingName": "Chemistry Building",
+            "BuildingNumber": 484.0,
+            "BldgAbbr": "CHEM",
+            "Region": "East Campus",
+            "NumStudents": 260,
+            "StartTimeStr": "10:20",
+            "EndTimeStr": "11:10",
+            "RoomCapacity": 313
+        },
+        "original_next_course": {
+            "CourseNumb": 661,
+            "SectionNumb": 600,
+            "SectionID": 40012,
+            "MeetingType": "LAB",
+            "MeetingID": 955694,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "348",
+            "BuildingName": "Langford Arch Center A",
+            "BuildingNumber": 398.0,
+            "BldgAbbr": "ARCA",
+            "Region": "East Campus",
+            "NumStudents": 16,
+            "StartTimeStr": "11:30",
+            "EndTimeStr": "12:20",
+            "RoomCapacity": 16
+        },
+        "original_options_for_next_course": [
+            {
+                "course_number": 661,
+                "room": "107B",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 0,
+                "room_capacity": 17,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.05882352941176472,
+                "distance_saved_normalized": 0.6997319773755295,
+                "time_saved_normalized": 0.6997319773755294,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.9395785478877459,
+                "total_score": 3.339042502638805,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.05882352941176472,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6997319773755295,
+                        "time_saved_normalized": 0.6997319773755294,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.9395785478877459
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "107A",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 0,
+                "room_capacity": 18,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.11111111111111116,
+                "distance_saved_normalized": 0.6997319773755295,
+                "time_saved_normalized": 0.6997319773755294,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.8858705904546311,
+                "total_score": 3.28533454520569,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.11111111111111116,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6997319773755295,
+                        "time_saved_normalized": 0.6997319773755294,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.8858705904546311
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "112",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.07780474141457909,
+                "travel_time": 0.9262469216021321,
+                "total_floors": 0,
+                "room_capacity": 36,
+                "num_students": 16,
+                "distance_saved": 0.1590754195123838,
+                "time_saved": 1.8937549941950456,
+                "floors_saved": 3,
+                "occupancy_improved": -0.5555555555555556,
+                "distance_saved_normalized": 0.9013751267141059,
+                "time_saved_normalized": 0.9013751267141059,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.429352952273156,
+                "total_score": 3.232103205701368,
+                "metrics": {
+                    "distance_saved": 0.1590754195123838,
+                    "time_saved": 1.8937549941950456,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.5555555555555556,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9013751267141059,
+                        "time_saved_normalized": 0.9013751267141059,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.429352952273156
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "107C",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 0,
+                "room_capacity": 20,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.19999999999999996,
+                "distance_saved_normalized": 0.6997319773755295,
+                "time_saved_normalized": 0.6997319773755294,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.7945670628183362,
+                "total_score": 3.194031017569395,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.19999999999999996,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6997319773755295,
+                        "time_saved_normalized": 0.6997319773755294,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.7945670628183362
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "100",
+                "building": "Chemistry Building",
+                "building_id": "484",
+                "building_location": [
+                    30.617998991465164,
+                    -96.33993106447583
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.0,
+                "travel_time": 0.0,
+                "total_floors": 0,
+                "room_capacity": 313,
+                "num_students": 16,
+                "distance_saved": 0.2368801609269629,
+                "time_saved": 2.8200019157971776,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9488817891373802,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.02534213509657894,
+                "total_score": 3.025342135096579,
+                "metrics": {
+                    "distance_saved": 0.2368801609269629,
+                    "time_saved": 2.8200019157971776,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9488817891373802,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.02534213509657894
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "300B",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 2,
+                "room_capacity": 18,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 1,
+                "occupancy_improved": -0.11111111111111116,
+                "distance_saved_normalized": 0.6997319773755295,
+                "time_saved_normalized": 0.6997319773755294,
+                "floors_saved_normalized": 0.3333333333333333,
+                "occupancy_improved_normalized": 0.8858705904546311,
+                "total_score": 2.618667878539023,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.11111111111111116,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6997319773755295,
+                        "time_saved_normalized": 0.6997319773755294,
+                        "floors_saved_normalized": 0.3333333333333333,
+                        "occupancy_improved_normalized": 0.8858705904546311
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "205",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.23893841915912767,
+                "travel_time": 2.8445049899896153,
+                "total_floors": 1,
+                "room_capacity": 30,
+                "num_students": 16,
+                "distance_saved": -0.002058258232164767,
+                "time_saved": -0.02450307419243769,
+                "floors_saved": 2,
+                "occupancy_improved": -0.4666666666666667,
+                "distance_saved_normalized": 0.6971229402699982,
+                "time_saved_normalized": 0.6971229402699981,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.5206564799094511,
+                "total_score": 2.581569027116114,
+                "metrics": {
+                    "distance_saved": -0.002058258232164767,
+                    "time_saved": -0.02450307419243769,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.4666666666666667,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6971229402699982,
+                        "time_saved_normalized": 0.6971229402699981,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.5206564799094511
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "105",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.23893841915912767,
+                "travel_time": 2.8445049899896153,
+                "total_floors": 0,
+                "room_capacity": 194,
+                "num_students": 16,
+                "distance_saved": -0.002058258232164767,
+                "time_saved": -0.02450307419243769,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9175257731958762,
+                "distance_saved_normalized": 0.6971229402699982,
+                "time_saved_normalized": 0.6971229402699981,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.05754992736247009,
+                "total_score": 2.4517958079024664,
+                "metrics": {
+                    "distance_saved": -0.002058258232164767,
+                    "time_saved": -0.02450307419243769,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9175257731958762,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6971229402699982,
+                        "time_saved_normalized": 0.6971229402699981,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.05754992736247009
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "400AF",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 3,
+                "room_capacity": 16,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 0,
+                "occupancy_improved": 0.0,
+                "distance_saved_normalized": 0.6997319773755295,
+                "time_saved_normalized": 0.6997319773755294,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 2.399463954751059,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.0,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6997319773755295,
+                        "time_saved_normalized": 0.6997319773755294,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "207",
+                "building": "Harrington Educ Ctr Classrooms",
+                "building_id": "438",
+                "building_location": [
+                    30.61688442919367,
+                    -96.34042969920843
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.13280193152963607,
+                "travel_time": 1.5809753753528106,
+                "total_floors": 1,
+                "room_capacity": 256,
+                "num_students": 16,
+                "distance_saved": 0.10407822939732683,
+                "time_saved": 1.239026540444367,
+                "floors_saved": 2,
+                "occupancy_improved": -0.9375,
+                "distance_saved_normalized": 0.8316609832369662,
+                "time_saved_normalized": 0.8316609832369661,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.03703310696095079,
+                "total_score": 2.3670217401015496,
+                "metrics": {
+                    "distance_saved": 0.10407822939732683,
+                    "time_saved": 1.239026540444367,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.9375,
+                    "normalized": {
+                        "distance_saved_normalized": 0.8316609832369662,
+                        "time_saved_normalized": 0.8316609832369661,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.03703310696095079
+                    }
+                }
+            }
+        ],
+        "updated_current_course": {
+            "CourseNumb": 325,
+            "SectionNumb": 500,
+            "SectionID": 46428,
+            "MeetingType": "LEC",
+            "MeetingID": 959440,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "1105",
+            "BuildingName": "Interdisciplinary Life Sc Bldg",
+            "BuildingNumber": "1530",
+            "BldgAbbr": "ILSB",
+            "Region": "N/A",
+            "NumStudents": 260,
+            "StartTimeStr": "10:20",
+            "EndTimeStr": "11:10",
+            "RoomCapacity": 313
+        },
+        "updated_options_for_next_course": [
+            {
+                "course_number": 661,
+                "room": "1105",
+                "building": "Interdisciplinary Life Sc Bldg",
+                "building_id": "1530",
+                "building_location": [
+                    30.614295003675288,
+                    -96.34366542314399
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.0,
+                "travel_time": 0.0,
+                "total_floors": 0,
+                "room_capacity": 285,
+                "num_students": 16,
+                "distance_saved": 0.7641509724253244,
+                "time_saved": 9.097035386015767,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9438596491228071,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.030500699967235548,
+                "total_score": 3.0305006999672357,
+                "metrics": {
+                    "distance_saved": 0.7641509724253244,
+                    "time_saved": 9.097035386015767,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9438596491228071,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.030500699967235548
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.26481864679294187,
+                "travel_time": 3.152602938011213,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 16,
+                "distance_saved": 0.4993323256323825,
+                "time_saved": 5.944432448004553,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9735537190082645,
+                "distance_saved_normalized": 0.6612840625723369,
+                "time_saved_normalized": 0.6612840625723369,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 2.3225681251446737,
+                "metrics": {
+                    "distance_saved": 0.4993323256323825,
+                    "time_saved": 5.944432448004553,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9735537190082645,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6612840625723369,
+                        "time_saved_normalized": 0.6612840625723369,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "112",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 0,
+                "room_capacity": 36,
+                "num_students": 16,
+                "distance_saved": 0.2624319112329865,
+                "time_saved": 3.1241894194403157,
+                "floors_saved": 3,
+                "occupancy_improved": -0.5555555555555556,
+                "distance_saved_normalized": 0.3582769030990336,
+                "time_saved_normalized": 0.3582769030990337,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.429352952273156,
+                "total_score": 2.1459067584712233,
+                "metrics": {
+                    "distance_saved": 0.2624319112329865,
+                    "time_saved": 3.1241894194403157,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.5555555555555556,
+                    "normalized": {
+                        "distance_saved_normalized": 0.3582769030990336,
+                        "time_saved_normalized": 0.3582769030990337,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.429352952273156
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "107B",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 0,
+                "room_capacity": 17,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.05882352941176472,
+                "distance_saved_normalized": 0.02261371661006974,
+                "time_saved_normalized": 0.02261371661006983,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.9395785478877459,
+                "total_score": 1.9848059811078855,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.05882352941176472,
+                    "normalized": {
+                        "distance_saved_normalized": 0.02261371661006974,
+                        "time_saved_normalized": 0.02261371661006983,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.9395785478877459
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "107A",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 0,
+                "room_capacity": 18,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.11111111111111116,
+                "distance_saved_normalized": 0.02261371661006974,
+                "time_saved_normalized": 0.02261371661006983,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.8858705904546311,
+                "total_score": 1.9310980236747708,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.11111111111111116,
+                    "normalized": {
+                        "distance_saved_normalized": 0.02261371661006974,
+                        "time_saved_normalized": 0.02261371661006983,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.8858705904546311
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "107C",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 0,
+                "room_capacity": 20,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.19999999999999996,
+                "distance_saved_normalized": 0.02261371661006974,
+                "time_saved_normalized": 0.02261371661006983,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.7945670628183362,
+                "total_score": 1.839794496038476,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.19999999999999996,
+                    "normalized": {
+                        "distance_saved_normalized": 0.02261371661006974,
+                        "time_saved_normalized": 0.02261371661006983,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.7945670628183362
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "207",
+                "building": "Harrington Educ Ctr Classrooms",
+                "building_id": "438",
+                "building_location": [
+                    30.61688442919367,
+                    -96.34042969920843
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.42282652850273245,
+                "travel_time": 5.033649148842054,
+                "total_floors": 1,
+                "room_capacity": 256,
+                "num_students": 16,
+                "distance_saved": 0.3413244439225919,
+                "time_saved": 4.063386237173713,
+                "floors_saved": 2,
+                "occupancy_improved": -0.9375,
+                "distance_saved_normalized": 0.45918429194652655,
+                "time_saved_normalized": 0.45918429194652655,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.03703310696095079,
+                "total_score": 1.6220683575206705,
+                "metrics": {
+                    "distance_saved": 0.3413244439225919,
+                    "time_saved": 4.063386237173713,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.9375,
+                    "normalized": {
+                        "distance_saved_normalized": 0.45918429194652655,
+                        "time_saved_normalized": 0.45918429194652655,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.03703310696095079
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "102",
+                "building": "Jack E. Brown Chem Engn Bldg",
+                "building_id": "386",
+                "building_location": [
+                    30.620858341963572,
+                    -96.34181184028992
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.7510554101553301,
+                "travel_time": 8.941135835182502,
+                "total_floors": 0,
+                "room_capacity": 66,
+                "num_students": 16,
+                "distance_saved": 0.01309556226999431,
+                "time_saved": 0.155899550833265,
+                "floors_saved": 3,
+                "occupancy_improved": -0.7575757575757576,
+                "distance_saved_normalized": 0.03936357808750435,
+                "time_saved_normalized": 0.039363578087504375,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.22184493491794002,
+                "total_score": 1.3005720910929488,
+                "metrics": {
+                    "distance_saved": 0.01309556226999431,
+                    "time_saved": 0.155899550833265,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.7575757575757576,
+                    "normalized": {
+                        "distance_saved_normalized": 0.03936357808750435,
+                        "time_saved_normalized": 0.039363578087504375,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.22184493491794002
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "300B",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 2,
+                "room_capacity": 18,
+                "num_students": 16,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 1,
+                "occupancy_improved": -0.11111111111111116,
+                "distance_saved_normalized": 0.02261371661006974,
+                "time_saved_normalized": 0.02261371661006983,
+                "floors_saved_normalized": 0.3333333333333333,
+                "occupancy_improved_normalized": 0.8858705904546311,
+                "total_score": 1.264431357008104,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.11111111111111116,
+                    "normalized": {
+                        "distance_saved_normalized": 0.02261371661006974,
+                        "time_saved_normalized": 0.02261371661006983,
+                        "floors_saved_normalized": 0.3333333333333333,
+                        "occupancy_improved_normalized": 0.8858705904546311
+                    }
+                }
+            },
+            {
+                "course_number": 661,
+                "room": "205",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "11:30",
+                "end_time": "12:20",
+                "travel_distance": 0.7818310788800632,
+                "travel_time": 9.307512843810278,
+                "total_floors": 1,
+                "room_capacity": 30,
+                "num_students": 16,
+                "distance_saved": -0.01768010645473883,
+                "time_saved": -0.21047745779451077,
+                "floors_saved": 2,
+                "occupancy_improved": -0.4666666666666667,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.5206564799094511,
+                "total_score": 1.1873231465761176,
+                "metrics": {
+                    "distance_saved": -0.01768010645473883,
+                    "time_saved": -0.21047745779451077,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.4666666666666667,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.5206564799094511
+                    }
+                }
+            }
+        ],
+        "updated_next_course": {
+            "course_number": 661,
+            "room": "1105",
+            "building": "Interdisciplinary Life Sc Bldg",
+            "building_id": "1530",
+            "building_location": [
+                30.614295003675288,
+                -96.34366542314399
+            ],
+            "start_time": "11:30",
+            "end_time": "12:20",
+            "travel_distance": 0.0,
+            "travel_time": 0.0,
+            "total_floors": 0,
+            "room_capacity": 285,
+            "num_students": 16,
+            "distance_saved": 0.7641509724253244,
+            "time_saved": 9.097035386015767,
+            "floors_saved": 3,
+            "occupancy_improved": -0.9438596491228071,
+            "distance_saved_normalized": 1.0,
+            "time_saved_normalized": 1.0,
+            "floors_saved_normalized": 1.0,
+            "occupancy_improved_normalized": 0.030500699967235548,
+            "total_score": 3.0305006999672357
+        }
+    },
+    "Course_2": {
+        "id": 2,
+        "original_current_course": {
+            "CourseNumb": 661,
+            "SectionNumb": 600,
+            "SectionID": 40012,
+            "MeetingType": "LAB",
+            "MeetingID": 955694,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "348",
+            "BuildingName": "Langford Arch Center A",
+            "BuildingNumber": 398.0,
+            "BldgAbbr": "ARCA",
+            "Region": "East Campus",
+            "NumStudents": 16,
+            "StartTimeStr": "11:30",
+            "EndTimeStr": "12:20",
+            "RoomCapacity": 16
+        },
+        "original_next_course": {
+            "CourseNumb": 301,
+            "SectionNumb": 501,
+            "SectionID": 18985,
+            "MeetingType": "LEC",
+            "MeetingID": 999167,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "101",
+            "BuildingName": "Architecture Center, Bldg B",
+            "BuildingNumber": 359.0,
+            "BldgAbbr": "ARCB",
+            "Region": "East Campus",
+            "NumStudents": 30,
+            "StartTimeStr": "12:40",
+            "EndTimeStr": "13:30",
+            "RoomCapacity": 210
+        },
+        "original_options_for_next_course": [
+            {
+                "course_number": 301,
+                "room": "112",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.26264692511786153,
+                "travel_time": 3.126749108545971,
+                "total_floors": 2,
+                "room_capacity": 36,
+                "num_students": 30,
+                "distance_saved": -0.18298139931305607,
+                "time_saved": -2.1783499918220963,
+                "floors_saved": 1,
+                "occupancy_improved": 0.6904761904761905,
+                "distance_saved_normalized": 0.7914638582771518,
+                "time_saved_normalized": 0.7914638582771518,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.8246376811594203,
+                "total_score": 3.407565397713724,
+                "metrics": {
+                    "distance_saved": -0.18298139931305607,
+                    "time_saved": -2.1783499918220963,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.6904761904761905,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7914638582771518,
+                        "time_saved_normalized": 0.7914638582771518,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.8246376811594203
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "305",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.0708709101073191,
+                "travel_time": 0.8437013108014177,
+                "total_floors": 4,
+                "room_capacity": 30,
+                "num_students": 30,
+                "distance_saved": 0.00879461569748638,
+                "time_saved": 0.10469780592245703,
+                "floors_saved": -1,
+                "occupancy_improved": 0.8571428571428572,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 0.3333333333333333,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 3.3333333333333335,
+                "metrics": {
+                    "distance_saved": 0.00879461569748638,
+                    "time_saved": 0.10469780592245703,
+                    "floors_saved": -1,
+                    "occupancy_improved": 0.8571428571428572,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 0.3333333333333333,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "105",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.0708709101073191,
+                "travel_time": 0.8437013108014177,
+                "total_floors": 2,
+                "room_capacity": 194,
+                "num_students": 30,
+                "distance_saved": 0.00879461569748638,
+                "time_saved": 0.10469780592245703,
+                "floors_saved": 1,
+                "occupancy_improved": 0.011782032400589115,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.1105333930972658,
+                "total_score": 3.1105333930972656,
+                "metrics": {
+                    "distance_saved": 0.00879461569748638,
+                    "time_saved": 0.10469780592245703,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.011782032400589115,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.1105333930972658
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "207",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.0708709101073191,
+                "travel_time": 0.8437013108014177,
+                "total_floors": 3,
+                "room_capacity": 72,
+                "num_students": 30,
+                "distance_saved": 0.00879461569748638,
+                "time_saved": 0.10469780592245703,
+                "floors_saved": 0,
+                "occupancy_improved": 0.27380952380952384,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.386231884057971,
+                "total_score": 3.0528985507246373,
+                "metrics": {
+                    "distance_saved": 0.00879461569748638,
+                    "time_saved": 0.10469780592245703,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.27380952380952384,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.386231884057971
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "204",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.26264692511786153,
+                "travel_time": 3.126749108545971,
+                "total_floors": 3,
+                "room_capacity": 43,
+                "num_students": 30,
+                "distance_saved": -0.18298139931305607,
+                "time_saved": -2.1783499918220963,
+                "floors_saved": 0,
+                "occupancy_improved": 0.5548172757475083,
+                "distance_saved_normalized": 0.7914638582771518,
+                "time_saved_normalized": 0.7914638582771518,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.6819009100101111,
+                "total_score": 2.931495293231081,
+                "metrics": {
+                    "distance_saved": -0.18298139931305607,
+                    "time_saved": -2.1783499918220963,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.5548172757475083,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7914638582771518,
+                        "time_saved_normalized": 0.7914638582771518,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.6819009100101111
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "102",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.26264692511786153,
+                "travel_time": 3.126749108545971,
+                "total_floors": 2,
+                "room_capacity": 116,
+                "num_students": 30,
+                "distance_saved": -0.18298139931305607,
+                "time_saved": -2.1783499918220963,
+                "floors_saved": 1,
+                "occupancy_improved": 0.11576354679802958,
+                "distance_saved_normalized": 0.7914638582771518,
+                "time_saved_normalized": 0.7914638582771518,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.2199400299850075,
+                "total_score": 2.8028677465393113,
+                "metrics": {
+                    "distance_saved": -0.18298139931305607,
+                    "time_saved": -2.1783499918220963,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.11576354679802958,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7914638582771518,
+                        "time_saved_normalized": 0.7914638582771518,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.2199400299850075
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "100",
+                "building": "Chemistry Building",
+                "building_id": "484",
+                "building_location": [
+                    30.617998991465164,
+                    -96.33993106447583
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 2,
+                "room_capacity": 313,
+                "num_students": 30,
+                "distance_saved": -0.15721463512215744,
+                "time_saved": -1.8716027990733028,
+                "floors_saved": 1,
+                "occupancy_improved": -0.04701049748973071,
+                "distance_saved_normalized": 0.8194824902669609,
+                "time_saved_normalized": 0.8194824902669607,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.04867342686484233,
+                "total_score": 2.6876384073987643,
+                "metrics": {
+                    "distance_saved": -0.15721463512215744,
+                    "time_saved": -1.8716027990733028,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.04701049748973071,
+                    "normalized": {
+                        "distance_saved_normalized": 0.8194824902669609,
+                        "time_saved_normalized": 0.8194824902669607,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.04867342686484233
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "102",
+                "building": "Jack E. Brown Chem Engn Bldg",
+                "building_id": "386",
+                "building_location": [
+                    30.620858341963572,
+                    -96.34181184028992
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.46002293218107443,
+                "travel_time": 5.476463478346124,
+                "total_floors": 2,
+                "room_capacity": 66,
+                "num_students": 30,
+                "distance_saved": -0.38035740637626897,
+                "time_saved": -4.528064361622249,
+                "floors_saved": 1,
+                "occupancy_improved": 0.3116883116883117,
+                "distance_saved_normalized": 0.5768383172293762,
+                "time_saved_normalized": 0.5768383172293763,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.4260869565217391,
+                "total_score": 2.579763590980492,
+                "metrics": {
+                    "distance_saved": -0.38035740637626897,
+                    "time_saved": -4.528064361622249,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.3116883116883117,
+                    "normalized": {
+                        "distance_saved_normalized": 0.5768383172293762,
+                        "time_saved_normalized": 0.5768383172293763,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.4260869565217391
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "4.102B",
+                "building": "Student Computing Center",
+                "building_id": "468",
+                "building_location": [
+                    30.616612278570177,
+                    -96.33905556928649
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.2788539053766173,
+                "travel_time": 3.319689349721635,
+                "total_floors": 5,
+                "room_capacity": 38,
+                "num_students": 30,
+                "distance_saved": -0.19918837957181185,
+                "time_saved": -2.3712902329977603,
+                "floors_saved": -2,
+                "occupancy_improved": 0.6466165413533835,
+                "distance_saved_normalized": 0.7738404806511568,
+                "time_saved_normalized": 0.7738404806511568,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 0.7784897025171625,
+                "total_score": 2.326170663819476,
+                "metrics": {
+                    "distance_saved": -0.19918837957181185,
+                    "time_saved": -2.3712902329977603,
+                    "floors_saved": -2,
+                    "occupancy_improved": 0.6466165413533835,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7738404806511568,
+                        "time_saved_normalized": 0.7738404806511568,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 0.7784897025171625
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "1105",
+                "building": "Interdisciplinary Life Sc Bldg",
+                "building_id": "1530",
+                "building_location": [
+                    30.614295003675288,
+                    -96.34366542314399
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 2,
+                "room_capacity": 285,
+                "num_students": 30,
+                "distance_saved": -0.6844854466205189,
+                "time_saved": -8.148636269291892,
+                "floors_saved": 1,
+                "occupancy_improved": -0.03759398496240601,
+                "distance_saved_normalized": 0.24613122594488757,
+                "time_saved_normalized": 0.2461312259448876,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.05858123569794049,
+                "total_score": 1.5508436875877156,
+                "metrics": {
+                    "distance_saved": -0.6844854466205189,
+                    "time_saved": -8.148636269291892,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.03759398496240601,
+                    "normalized": {
+                        "distance_saved_normalized": 0.24613122594488757,
+                        "time_saved_normalized": 0.2461312259448876,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.05858123569794049
+                    }
+                }
+            }
+        ],
+        "updated_current_course": {
+            "CourseNumb": 661,
+            "SectionNumb": 600,
+            "SectionID": 40012,
+            "MeetingType": "LAB",
+            "MeetingID": 955694,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "1105",
+            "BuildingName": "Interdisciplinary Life Sc Bldg",
+            "BuildingNumber": "1530",
+            "BldgAbbr": "ILSB",
+            "Region": "N/A",
+            "NumStudents": 16,
+            "StartTimeStr": "11:30",
+            "EndTimeStr": "12:20",
+            "RoomCapacity": 16
+        },
+        "updated_options_for_next_course": [
+            {
+                "course_number": 301,
+                "room": "1105",
+                "building": "Interdisciplinary Life Sc Bldg",
+                "building_id": "1530",
+                "building_location": [
+                    30.614295003675288,
+                    -96.34366542314399
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.0,
+                "travel_time": 0.0,
+                "total_floors": 0,
+                "room_capacity": 285,
+                "num_students": 30,
+                "distance_saved": 0.7508251368957762,
+                "time_saved": 8.938394486854481,
+                "floors_saved": 1,
+                "occupancy_improved": -0.03759398496240601,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.05858123569794049,
+                "total_score": 3.0585812356979405,
+                "metrics": {
+                    "distance_saved": 0.7508251368957762,
+                    "time_saved": 8.938394486854481,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.03759398496240601,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.05858123569794049
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "112",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 0,
+                "room_capacity": 36,
+                "num_students": 30,
+                "distance_saved": 0.24910607570343835,
+                "time_saved": 2.9655485202790297,
+                "floors_saved": 1,
+                "occupancy_improved": 0.6904761904761905,
+                "distance_saved_normalized": 0.3582769030990336,
+                "time_saved_normalized": 0.3582769030990337,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.8246376811594203,
+                "total_score": 2.5411914873574872,
+                "metrics": {
+                    "distance_saved": 0.24910607570343835,
+                    "time_saved": 2.9655485202790297,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.6904761904761905,
+                    "normalized": {
+                        "distance_saved_normalized": 0.3582769030990336,
+                        "time_saved_normalized": 0.3582769030990337,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.8246376811594203
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.26481864679294187,
+                "travel_time": 3.152602938011213,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 30,
+                "distance_saved": 0.48600649010283437,
+                "time_saved": 5.785791548843267,
+                "floors_saved": 1,
+                "occupancy_improved": -0.09327036599763872,
+                "distance_saved_normalized": 0.6612840625723369,
+                "time_saved_normalized": 0.6612840625723369,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 2.3225681251446737,
+                "metrics": {
+                    "distance_saved": 0.48600649010283437,
+                    "time_saved": 5.785791548843267,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.09327036599763872,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6612840625723369,
+                        "time_saved_normalized": 0.6612840625723369,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "204",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 1,
+                "room_capacity": 43,
+                "num_students": 30,
+                "distance_saved": 0.24910607570343835,
+                "time_saved": 2.9655485202790297,
+                "floors_saved": 0,
+                "occupancy_improved": 0.5548172757475083,
+                "distance_saved_normalized": 0.3582769030990336,
+                "time_saved_normalized": 0.3582769030990337,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.6819009100101111,
+                "total_score": 2.065121382874845,
+                "metrics": {
+                    "distance_saved": 0.24910607570343835,
+                    "time_saved": 2.9655485202790297,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.5548172757475083,
+                    "normalized": {
+                        "distance_saved_normalized": 0.3582769030990336,
+                        "time_saved_normalized": 0.3582769030990337,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.6819009100101111
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "102",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 0,
+                "room_capacity": 116,
+                "num_students": 30,
+                "distance_saved": 0.24910607570343835,
+                "time_saved": 2.9655485202790297,
+                "floors_saved": 1,
+                "occupancy_improved": 0.11576354679802958,
+                "distance_saved_normalized": 0.3582769030990336,
+                "time_saved_normalized": 0.3582769030990337,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.2199400299850075,
+                "total_score": 1.9364938361830748,
+                "metrics": {
+                    "distance_saved": 0.24910607570343835,
+                    "time_saved": 2.9655485202790297,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.11576354679802958,
+                    "normalized": {
+                        "distance_saved_normalized": 0.3582769030990336,
+                        "time_saved_normalized": 0.3582769030990337,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.2199400299850075
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "102",
+                "building": "Jack E. Brown Chem Engn Bldg",
+                "building_id": "386",
+                "building_location": [
+                    30.620858341963572,
+                    -96.34181184028992
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.7510554101553301,
+                "travel_time": 8.941135835182502,
+                "total_floors": 0,
+                "room_capacity": 66,
+                "num_students": 30,
+                "distance_saved": -0.00023027325955382594,
+                "time_saved": -0.002741348328020976,
+                "floors_saved": 1,
+                "occupancy_improved": 0.3116883116883117,
+                "distance_saved_normalized": 0.03936357808750435,
+                "time_saved_normalized": 0.039363578087504375,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.4260869565217391,
+                "total_score": 1.5048141126967478,
+                "metrics": {
+                    "distance_saved": -0.00023027325955382594,
+                    "time_saved": -0.002741348328020976,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.3116883116883117,
+                    "normalized": {
+                        "distance_saved_normalized": 0.03936357808750435,
+                        "time_saved_normalized": 0.039363578087504375,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.4260869565217391
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "4.102B",
+                "building": "Student Computing Center",
+                "building_id": "468",
+                "building_location": [
+                    30.616612278570177,
+                    -96.33905556928649
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.5108790349526563,
+                "travel_time": 6.081893273245909,
+                "total_floors": 3,
+                "room_capacity": 38,
+                "num_students": 30,
+                "distance_saved": 0.23994610194311994,
+                "time_saved": 2.8565012136085723,
+                "floors_saved": -2,
+                "occupancy_improved": 0.6466165413533835,
+                "distance_saved_normalized": 0.3465608508624819,
+                "time_saved_normalized": 0.34656085086248195,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 0.7784897025171625,
+                "total_score": 1.4716114042421262,
+                "metrics": {
+                    "distance_saved": 0.23994610194311994,
+                    "time_saved": 2.8565012136085723,
+                    "floors_saved": -2,
+                    "occupancy_improved": 0.6466165413533835,
+                    "normalized": {
+                        "distance_saved_normalized": 0.3465608508624819,
+                        "time_saved_normalized": 0.34656085086248195,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 0.7784897025171625
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "305",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.7818310788800632,
+                "travel_time": 9.307512843810278,
+                "total_floors": 2,
+                "room_capacity": 30,
+                "num_students": 30,
+                "distance_saved": -0.031005941984286967,
+                "time_saved": -0.36911835695579676,
+                "floors_saved": -1,
+                "occupancy_improved": 0.8571428571428572,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.3333333333333333,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 1.3333333333333333,
+                "metrics": {
+                    "distance_saved": -0.031005941984286967,
+                    "time_saved": -0.36911835695579676,
+                    "floors_saved": -1,
+                    "occupancy_improved": 0.8571428571428572,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.3333333333333333,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "105",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.7818310788800632,
+                "travel_time": 9.307512843810278,
+                "total_floors": 0,
+                "room_capacity": 194,
+                "num_students": 30,
+                "distance_saved": -0.031005941984286967,
+                "time_saved": -0.36911835695579676,
+                "floors_saved": 1,
+                "occupancy_improved": 0.011782032400589115,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.1105333930972658,
+                "total_score": 1.1105333930972658,
+                "metrics": {
+                    "distance_saved": -0.031005941984286967,
+                    "time_saved": -0.36911835695579676,
+                    "floors_saved": 1,
+                    "occupancy_improved": 0.011782032400589115,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.1105333930972658
+                    }
+                }
+            },
+            {
+                "course_number": 301,
+                "room": "207",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "12:40",
+                "end_time": "13:30",
+                "travel_distance": 0.7818310788800632,
+                "travel_time": 9.307512843810278,
+                "total_floors": 1,
+                "room_capacity": 72,
+                "num_students": 30,
+                "distance_saved": -0.031005941984286967,
+                "time_saved": -0.36911835695579676,
+                "floors_saved": 0,
+                "occupancy_improved": 0.27380952380952384,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.386231884057971,
+                "total_score": 1.0528985507246376,
+                "metrics": {
+                    "distance_saved": -0.031005941984286967,
+                    "time_saved": -0.36911835695579676,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.27380952380952384,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.386231884057971
+                    }
+                }
+            }
+        ],
+        "updated_next_course": {
+            "course_number": 301,
+            "room": "1105",
+            "building": "Interdisciplinary Life Sc Bldg",
+            "building_id": "1530",
+            "building_location": [
+                30.614295003675288,
+                -96.34366542314399
+            ],
+            "start_time": "12:40",
+            "end_time": "13:30",
+            "travel_distance": 0.0,
+            "travel_time": 0.0,
+            "total_floors": 0,
+            "room_capacity": 285,
+            "num_students": 30,
+            "distance_saved": 0.7508251368957762,
+            "time_saved": 8.938394486854481,
+            "floors_saved": 1,
+            "occupancy_improved": -0.03759398496240601,
+            "distance_saved_normalized": 1.0,
+            "time_saved_normalized": 1.0,
+            "floors_saved_normalized": 1.0,
+            "occupancy_improved_normalized": 0.05858123569794049,
+            "total_score": 3.0585812356979405
+        }
+    },
+    "Course_3": {
+        "id": 3,
+        "original_current_course": {
+            "CourseNumb": 301,
+            "SectionNumb": 501,
+            "SectionID": 18985,
+            "MeetingType": "LEC",
+            "MeetingID": 999167,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "101",
+            "BuildingName": "Architecture Center, Bldg B",
+            "BuildingNumber": 359.0,
+            "BldgAbbr": "ARCB",
+            "Region": "East Campus",
+            "NumStudents": 30,
+            "StartTimeStr": "12:40",
+            "EndTimeStr": "13:30",
+            "RoomCapacity": 210
+        },
+        "original_next_course": {
+            "CourseNumb": 612,
+            "SectionNumb": 600,
+            "SectionID": 12472,
+            "MeetingType": "LAB",
+            "MeetingID": 940857,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "348",
+            "BuildingName": "Langford Arch Center A",
+            "BuildingNumber": 398.0,
+            "BldgAbbr": "ARCA",
+            "Region": "East Campus",
+            "NumStudents": 12,
+            "StartTimeStr": "14:40",
+            "EndTimeStr": "16:00",
+            "RoomCapacity": 12
+        },
+        "original_options_for_next_course": [
+            {
+                "course_number": 612,
+                "room": "107B",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.07966552580480547,
+                "travel_time": 0.9483991167238748,
+                "total_floors": 0,
+                "room_capacity": 17,
+                "num_students": 12,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.2941176470588235,
+                "distance_saved_normalized": 0.9711247257480964,
+                "time_saved_normalized": 0.9711247257480964,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.699930562444202,
+                "total_score": 3.642180013940395,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.2941176470588235,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9711247257480964,
+                        "time_saved_normalized": 0.9711247257480964,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.699930562444202
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "107A",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.07966552580480547,
+                "travel_time": 0.9483991167238748,
+                "total_floors": 0,
+                "room_capacity": 18,
+                "num_students": 12,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.33333333333333337,
+                "distance_saved_normalized": 0.9711247257480964,
+                "time_saved_normalized": 0.9711247257480964,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.6599213041034289,
+                "total_score": 3.6021707555996216,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.33333333333333337,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9711247257480964,
+                        "time_saved_normalized": 0.9711247257480964,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.6599213041034289
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "105",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.2547072913639326,
+                "travel_time": 3.0322296590944355,
+                "total_floors": 0,
+                "room_capacity": 25,
+                "num_students": 12,
+                "distance_saved": -0.17504176555912715,
+                "time_saved": -2.0838305423705608,
+                "floors_saved": 3,
+                "occupancy_improved": -0.52,
+                "distance_saved_normalized": 0.9076797294966271,
+                "time_saved_normalized": 0.9076797294966271,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.4694772344013491,
+                "total_score": 3.284836693394603,
+                "metrics": {
+                    "distance_saved": -0.17504176555912715,
+                    "time_saved": -2.0838305423705608,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.52,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9076797294966271,
+                        "time_saved_normalized": 0.9076797294966271,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.4694772344013491
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "110",
+                "building": "Oceanography & Meteorology",
+                "building_id": "443",
+                "building_location": [
+                    30.617726337500713,
+                    -96.33666140941625
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.22974744120998702,
+                "travel_time": 2.735088585833179,
+                "total_floors": 0,
+                "room_capacity": 28,
+                "num_students": 12,
+                "distance_saved": -0.15008191540518157,
+                "time_saved": -1.7866894691093043,
+                "floors_saved": 3,
+                "occupancy_improved": -0.5714285714285714,
+                "distance_saved_normalized": 0.9167265852250069,
+                "time_saved_normalized": 0.9167265852250069,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.41700794989159246,
+                "total_score": 3.250461120341606,
+                "metrics": {
+                    "distance_saved": -0.15008191540518157,
+                    "time_saved": -1.7866894691093043,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.5714285714285714,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9167265852250069,
+                        "time_saved_normalized": 0.9167265852250069,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.41700794989159246
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "204BA",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.03304582049280993,
+                "travel_time": 0.393402624914404,
+                "total_floors": 1,
+                "room_capacity": 23,
+                "num_students": 12,
+                "distance_saved": 0.046619705311995545,
+                "time_saved": 0.5549964918094707,
+                "floors_saved": 2,
+                "occupancy_improved": -0.4782608695652174,
+                "distance_saved_normalized": 0.9880223331237776,
+                "time_saved_normalized": 0.9880223331237776,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.5120610015397024,
+                "total_score": 3.154772334453924,
+                "metrics": {
+                    "distance_saved": 0.046619705311995545,
+                    "time_saved": 0.5549964918094707,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.4782608695652174,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9880223331237776,
+                        "time_saved_normalized": 0.9880223331237776,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.5120610015397024
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "112",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.2547072913639326,
+                "travel_time": 3.0322296590944355,
+                "total_floors": 0,
+                "room_capacity": 36,
+                "num_students": 12,
+                "distance_saved": -0.17504176555912715,
+                "time_saved": -2.0838305423705608,
+                "floors_saved": 3,
+                "occupancy_improved": -0.6666666666666667,
+                "distance_saved_normalized": 0.9076797294966271,
+                "time_saved_normalized": 0.9076797294966271,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.3198426082068577,
+                "total_score": 3.1352020672001117,
+                "metrics": {
+                    "distance_saved": -0.17504176555912715,
+                    "time_saved": -2.0838305423705608,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.6666666666666667,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9076797294966271,
+                        "time_saved_normalized": 0.9076797294966271,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.3198426082068577
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "101",
+                "building": "Architecture Center, Bldg B",
+                "building_id": "359",
+                "building_location": [
+                    30.61922912869159,
+                    -96.33830911758582
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.0,
+                "travel_time": 0.0,
+                "total_floors": 0,
+                "room_capacity": 210,
+                "num_students": 12,
+                "distance_saved": 0.07966552580480547,
+                "time_saved": 0.9483991167238748,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9428571428571428,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0380631173211275,
+                "total_score": 3.0380631173211277,
+                "metrics": {
+                    "distance_saved": 0.07966552580480547,
+                    "time_saved": 0.9483991167238748,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9428571428571428,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0380631173211275
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "205",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.03304582049280993,
+                "travel_time": 0.393402624914404,
+                "total_floors": 1,
+                "room_capacity": 30,
+                "num_students": 12,
+                "distance_saved": 0.046619705311995545,
+                "time_saved": 0.5549964918094707,
+                "floors_saved": 2,
+                "occupancy_improved": -0.6,
+                "distance_saved_normalized": 0.9880223331237776,
+                "time_saved_normalized": 0.9880223331237776,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.38785834738617203,
+                "total_score": 3.0305696803003936,
+                "metrics": {
+                    "distance_saved": 0.046619705311995545,
+                    "time_saved": 0.5549964918094707,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.6,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9880223331237776,
+                        "time_saved_normalized": 0.9880223331237776,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.38785834738617203
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "105",
+                "building": "Architecture Center, Bldg C",
+                "building_id": "432",
+                "building_location": [
+                    30.619360700033752,
+                    -96.3379994664378
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.03304582049280993,
+                "travel_time": 0.393402624914404,
+                "total_floors": 0,
+                "room_capacity": 194,
+                "num_students": 12,
+                "distance_saved": 0.046619705311995545,
+                "time_saved": 0.5549964918094707,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9381443298969072,
+                "distance_saved_normalized": 0.9880223331237776,
+                "time_saved_normalized": 0.9880223331237776,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.04287129917769167,
+                "total_score": 3.018915965425247,
+                "metrics": {
+                    "distance_saved": 0.046619705311995545,
+                    "time_saved": 0.5549964918094707,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9381443298969072,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9880223331237776,
+                        "time_saved_normalized": 0.9880223331237776,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.04287129917769167
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "400AB",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.07966552580480547,
+                "travel_time": 0.9483991167238748,
+                "total_floors": 3,
+                "room_capacity": 12,
+                "num_students": 12,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 0,
+                "occupancy_improved": 0.0,
+                "distance_saved_normalized": 0.9711247257480964,
+                "time_saved_normalized": 0.9711247257480964,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 2.9422494514961928,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.0,
+                    "normalized": {
+                        "distance_saved_normalized": 0.9711247257480964,
+                        "time_saved_normalized": 0.9711247257480964,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            }
+        ],
+        "updated_current_course": {
+            "CourseNumb": 301,
+            "SectionNumb": 501,
+            "SectionID": 18985,
+            "MeetingType": "LEC",
+            "MeetingID": 999167,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "1105",
+            "BuildingName": "Interdisciplinary Life Sc Bldg",
+            "BuildingNumber": "1530",
+            "BldgAbbr": "ILSB",
+            "Region": "N/A",
+            "NumStudents": 30,
+            "StartTimeStr": "12:40",
+            "EndTimeStr": "13:30",
+            "RoomCapacity": 210
+        },
+        "updated_options_for_next_course": [
+            {
+                "course_number": 612,
+                "room": "1105",
+                "building": "Interdisciplinary Life Sc Bldg",
+                "building_id": "1530",
+                "building_location": [
+                    30.614295003675288,
+                    -96.34366542314399
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.0,
+                "travel_time": 0.0,
+                "total_floors": 0,
+                "room_capacity": 210,
+                "num_students": 12,
+                "distance_saved": 0.7641509724253244,
+                "time_saved": 9.097035386015767,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9428571428571428,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0380631173211275,
+                "total_score": 3.0380631173211277,
+                "metrics": {
+                    "distance_saved": 0.7641509724253244,
+                    "time_saved": 9.097035386015767,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9428571428571428,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0380631173211275
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "105",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 0,
+                "room_capacity": 25,
+                "num_students": 12,
+                "distance_saved": 0.2624319112329865,
+                "time_saved": 3.1241894194403157,
+                "floors_saved": 3,
+                "occupancy_improved": -0.52,
+                "distance_saved_normalized": 0.7537120940590635,
+                "time_saved_normalized": 0.7537120940590635,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.4694772344013491,
+                "total_score": 2.9769014225194756,
+                "metrics": {
+                    "distance_saved": 0.2624319112329865,
+                    "time_saved": 3.1241894194403157,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.52,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7537120940590635,
+                        "time_saved_normalized": 0.7537120940590635,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.4694772344013491
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "107B",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 0,
+                "room_capacity": 17,
+                "num_students": 12,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.2941176470588235,
+                "distance_saved_normalized": 0.62488739739307,
+                "time_saved_normalized": 0.62488739739307,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.699930562444202,
+                "total_score": 2.949705357230342,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.2941176470588235,
+                    "normalized": {
+                        "distance_saved_normalized": 0.62488739739307,
+                        "time_saved_normalized": 0.62488739739307,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.699930562444202
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "107A",
+                "building": "Langford Arch Center A",
+                "building_id": "398",
+                "building_location": [
+                    30.618803876316907,
+                    -96.33763910653171
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.7641509724253244,
+                "travel_time": 9.097035386015767,
+                "total_floors": 0,
+                "room_capacity": 18,
+                "num_students": 12,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 3,
+                "occupancy_improved": -0.33333333333333337,
+                "distance_saved_normalized": 0.62488739739307,
+                "time_saved_normalized": 0.62488739739307,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.6599213041034289,
+                "total_score": 2.909696098889569,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.33333333333333337,
+                    "normalized": {
+                        "distance_saved_normalized": 0.62488739739307,
+                        "time_saved_normalized": 0.62488739739307,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.6599213041034289
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "112",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 0,
+                "room_capacity": 36,
+                "num_students": 12,
+                "distance_saved": 0.2624319112329865,
+                "time_saved": 3.1241894194403157,
+                "floors_saved": 3,
+                "occupancy_improved": -0.6666666666666667,
+                "distance_saved_normalized": 0.7537120940590635,
+                "time_saved_normalized": 0.7537120940590635,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.3198426082068577,
+                "total_score": 2.8272667963249845,
+                "metrics": {
+                    "distance_saved": 0.2624319112329865,
+                    "time_saved": 3.1241894194403157,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.6666666666666667,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7537120940590635,
+                        "time_saved_normalized": 0.7537120940590635,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.3198426082068577
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.26481864679294187,
+                "travel_time": 3.152602938011213,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 12,
+                "distance_saved": 0.4993323256323825,
+                "time_saved": 5.944432448004553,
+                "floors_saved": 3,
+                "occupancy_improved": -0.9801652892561984,
+                "distance_saved_normalized": 0.8700036833008764,
+                "time_saved_normalized": 0.8700036833008763,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 2.740007366601753,
+                "metrics": {
+                    "distance_saved": 0.4993323256323825,
+                    "time_saved": 5.944432448004553,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.9801652892561984,
+                    "normalized": {
+                        "distance_saved_normalized": 0.8700036833008764,
+                        "time_saved_normalized": 0.8700036833008763,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "110",
+                "building": "Oceanography & Meteorology",
+                "building_id": "443",
+                "building_location": [
+                    30.617726337500713,
+                    -96.33666140941625
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.7712363865131644,
+                "travel_time": 9.181385553728148,
+                "total_floors": 0,
+                "room_capacity": 28,
+                "num_students": 12,
+                "distance_saved": -0.007085414087840025,
+                "time_saved": -0.08435016771238146,
+                "floors_saved": 3,
+                "occupancy_improved": -0.5714285714285714,
+                "distance_saved_normalized": 0.6214092520854722,
+                "time_saved_normalized": 0.6214092520854722,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.41700794989159246,
+                "total_score": 2.6598264540625367,
+                "metrics": {
+                    "distance_saved": -0.007085414087840025,
+                    "time_saved": -0.08435016771238146,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.5714285714285714,
+                    "normalized": {
+                        "distance_saved_normalized": 0.6214092520854722,
+                        "time_saved_normalized": 0.6214092520854722,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.41700794989159246
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "203",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 1,
+                "room_capacity": 27,
+                "num_students": 12,
+                "distance_saved": 0.2624319112329865,
+                "time_saved": 3.1241894194403157,
+                "floors_saved": 2,
+                "occupancy_improved": -0.5555555555555556,
+                "distance_saved_normalized": 0.7537120940590635,
+                "time_saved_normalized": 0.7537120940590635,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.4332021735057148,
+                "total_score": 2.6072930282905085,
+                "metrics": {
+                    "distance_saved": 0.2624319112329865,
+                    "time_saved": 3.1241894194403157,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.5555555555555556,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7537120940590635,
+                        "time_saved_normalized": 0.7537120940590635,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.4332021735057148
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "102",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 0,
+                "room_capacity": 116,
+                "num_students": 12,
+                "distance_saved": 0.2624319112329865,
+                "time_saved": 3.1241894194403157,
+                "floors_saved": 3,
+                "occupancy_improved": -0.896551724137931,
+                "distance_saved_normalized": 0.7537120940590635,
+                "time_saved_normalized": 0.7537120940590635,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.08530557655405015,
+                "total_score": 2.592729764672177,
+                "metrics": {
+                    "distance_saved": 0.2624319112329865,
+                    "time_saved": 3.1241894194403157,
+                    "floors_saved": 3,
+                    "occupancy_improved": -0.896551724137931,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7537120940590635,
+                        "time_saved_normalized": 0.7537120940590635,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.08530557655405015
+                    }
+                }
+            },
+            {
+                "course_number": 612,
+                "room": "201",
+                "building": "Francis Hall",
+                "building_id": "476",
+                "building_location": [
+                    30.617313423534853,
+                    -96.33976839490212
+                ],
+                "start_time": "14:40",
+                "end_time": "16:00",
+                "travel_distance": 0.5017190611923379,
+                "travel_time": 5.972845966575451,
+                "total_floors": 1,
+                "room_capacity": 36,
+                "num_students": 12,
+                "distance_saved": 0.2624319112329865,
+                "time_saved": 3.1241894194403157,
+                "floors_saved": 2,
+                "occupancy_improved": -0.6666666666666667,
+                "distance_saved_normalized": 0.7537120940590635,
+                "time_saved_normalized": 0.7537120940590635,
+                "floors_saved_normalized": 0.6666666666666666,
+                "occupancy_improved_normalized": 0.3198426082068577,
+                "total_score": 2.4939334629916514,
+                "metrics": {
+                    "distance_saved": 0.2624319112329865,
+                    "time_saved": 3.1241894194403157,
+                    "floors_saved": 2,
+                    "occupancy_improved": -0.6666666666666667,
+                    "normalized": {
+                        "distance_saved_normalized": 0.7537120940590635,
+                        "time_saved_normalized": 0.7537120940590635,
+                        "floors_saved_normalized": 0.6666666666666666,
+                        "occupancy_improved_normalized": 0.3198426082068577
+                    }
+                }
+            }
+        ],
+        "updated_next_course": {
+            "course_number": 612,
+            "room": "1105",
+            "building": "Interdisciplinary Life Sc Bldg",
+            "building_id": "1530",
+            "building_location": [
+                30.614295003675288,
+                -96.34366542314399
+            ],
+            "start_time": "14:40",
+            "end_time": "16:00",
+            "travel_distance": 0.0,
+            "travel_time": 0.0,
+            "total_floors": 0,
+            "room_capacity": 210,
+            "num_students": 12,
+            "distance_saved": 0.7641509724253244,
+            "time_saved": 9.097035386015767,
+            "floors_saved": 3,
+            "occupancy_improved": -0.9428571428571428,
+            "distance_saved_normalized": 1.0,
+            "time_saved_normalized": 1.0,
+            "floors_saved_normalized": 1.0,
+            "occupancy_improved_normalized": 0.0380631173211275,
+            "total_score": 3.0380631173211277
+        }
+    },
+    "Course_4": {
+        "id": 4,
+        "original_current_course": {
+            "CourseNumb": 612,
+            "SectionNumb": 600,
+            "SectionID": 12472,
+            "MeetingType": "LAB",
+            "MeetingID": 940857,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "348",
+            "BuildingName": "Langford Arch Center A",
+            "BuildingNumber": 398.0,
+            "BldgAbbr": "ARCA",
+            "Region": "East Campus",
+            "NumStudents": 12,
+            "StartTimeStr": "14:40",
+            "EndTimeStr": "16:00",
+            "RoomCapacity": 12
+        },
+        "original_next_course": {
+            "CourseNumb": 321,
+            "SectionNumb": 502,
+            "SectionID": 54285,
+            "MeetingType": "LEC",
+            "MeetingID": 982379,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "1105",
+            "BuildingName": "Interdisciplinary Life Sc Bldg",
+            "BuildingNumber": 1530.0,
+            "BldgAbbr": "ILSB",
+            "Region": "East Campus",
+            "NumStudents": 252,
+            "StartTimeStr": "16:10",
+            "EndTimeStr": "17:25",
+            "RoomCapacity": 285
+        },
+        "original_options_for_next_course": [
+            {
+                "course_number": 321,
+                "room": "100",
+                "building": "Chemistry Building",
+                "building_id": "484",
+                "building_location": [
+                    30.617998991465164,
+                    -96.33993106447583
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.2368801609269629,
+                "travel_time": 2.8200019157971776,
+                "total_floors": 2,
+                "room_capacity": 313,
+                "num_students": 252,
+                "distance_saved": 0.5272708114983615,
+                "time_saved": 6.277033470218589,
+                "floors_saved": 1,
+                "occupancy_improved": -0.07909870522952744,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.684310261175243,
+                "total_score": 3.684310261175243,
+                "metrics": {
+                    "distance_saved": 0.5272708114983615,
+                    "time_saved": 6.277033470218589,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.07909870522952744,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.684310261175243
+                    }
+                }
+            },
+            {
+                "course_number": 321,
+                "room": "207",
+                "building": "Harrington Educ Ctr Classrooms",
+                "building_id": "438",
+                "building_location": [
+                    30.61688442919367,
+                    -96.34042969920843
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.3418527283558374,
+                "travel_time": 4.069675337569493,
+                "total_floors": 3,
+                "room_capacity": 256,
+                "num_students": 252,
+                "distance_saved": 0.42229824406948696,
+                "time_saved": 5.0273600484462735,
+                "floors_saved": 0,
+                "occupancy_improved": 0.10016447368421055,
+                "distance_saved_normalized": 0.8607089587484058,
+                "time_saved_normalized": 0.8607089587484059,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 2.7214179174968116,
+                "metrics": {
+                    "distance_saved": 0.42229824406948696,
+                    "time_saved": 5.0273600484462735,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.10016447368421055,
+                    "normalized": {
+                        "distance_saved_normalized": 0.8607089587484058,
+                        "time_saved_normalized": 0.8607089587484059,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            },
+            {
+                "course_number": 321,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.9905005408569836,
+                "travel_time": 11.791673105440282,
+                "total_floors": 2,
+                "room_capacity": 605,
+                "num_students": 252,
+                "distance_saved": -0.2263495684316592,
+                "time_saved": -2.694637719424515,
+                "floors_saved": 1,
+                "occupancy_improved": -0.4676816006959547,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 1.0,
+                "metrics": {
+                    "distance_saved": -0.2263495684316592,
+                    "time_saved": -2.694637719424515,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.4676816006959547,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            }
+        ],
+        "updated_current_course": {
+            "CourseNumb": 612,
+            "SectionNumb": 600,
+            "SectionID": 12472,
+            "MeetingType": "LAB",
+            "MeetingID": 940857,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "1105",
+            "BuildingName": "Interdisciplinary Life Sc Bldg",
+            "BuildingNumber": "1530",
+            "BldgAbbr": "ILSB",
+            "Region": "N/A",
+            "NumStudents": 12,
+            "StartTimeStr": "14:40",
+            "EndTimeStr": "16:00",
+            "RoomCapacity": 12
+        },
+        "updated_options_for_next_course": [
+            {
+                "course_number": 321,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.26481864679294187,
+                "travel_time": 3.152602938011213,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 252,
+                "distance_saved": -0.26481864679294187,
+                "time_saved": -3.152602938011213,
+                "floors_saved": 1,
+                "occupancy_improved": -0.4676816006959547,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 3.0,
+                "metrics": {
+                    "distance_saved": -0.26481864679294187,
+                    "time_saved": -3.152602938011213,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.4676816006959547,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            },
+            {
+                "course_number": 321,
+                "room": "207",
+                "building": "Harrington Educ Ctr Classrooms",
+                "building_id": "438",
+                "building_location": [
+                    30.61688442919367,
+                    -96.34042969920843
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.42282652850273245,
+                "travel_time": 5.033649148842054,
+                "total_floors": 1,
+                "room_capacity": 256,
+                "num_students": 252,
+                "distance_saved": -0.42282652850273245,
+                "time_saved": -5.033649148842054,
+                "floors_saved": 0,
+                "occupancy_improved": 0.10016447368421055,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 1.0,
+                "metrics": {
+                    "distance_saved": -0.42282652850273245,
+                    "time_saved": -5.033649148842054,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.10016447368421055,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            }
+        ],
+        "updated_next_course": {
+            "course_number": 321,
+            "room": "113",
+            "building": "Innovative Learning Classroom",
+            "building_id": "1543",
+            "building_location": [
+                30.611973544751592,
+                -96.34428323571838
+            ],
+            "start_time": "16:10",
+            "end_time": "17:25",
+            "travel_distance": 0.26481864679294187,
+            "travel_time": 3.152602938011213,
+            "total_floors": 0,
+            "room_capacity": 605,
+            "num_students": 252,
+            "distance_saved": -0.26481864679294187,
+            "time_saved": -3.152602938011213,
+            "floors_saved": 1,
+            "occupancy_improved": -0.4676816006959547,
+            "distance_saved_normalized": 1.0,
+            "time_saved_normalized": 1.0,
+            "floors_saved_normalized": 1.0,
+            "occupancy_improved_normalized": 0.0,
+            "total_score": 3.0
+        }
+    },
+    "Course_5": {
+        "id": 5,
+        "original_current_course": {
+            "CourseNumb": 321,
+            "SectionNumb": 502,
+            "SectionID": 54285,
+            "MeetingType": "LEC",
+            "MeetingID": 982379,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "1105",
+            "BuildingName": "Interdisciplinary Life Sc Bldg",
+            "BuildingNumber": 1530.0,
+            "BldgAbbr": "ILSB",
+            "Region": "East Campus",
+            "NumStudents": 252,
+            "StartTimeStr": "16:10",
+            "EndTimeStr": "17:25",
+            "RoomCapacity": 285
+        },
+        "original_options_for_current_course": [
+            {
+                "course_number": 321,
+                "room": "113",
+                "building": "Innovative Learning Classroom",
+                "building_id": "1543",
+                "building_location": [
+                    30.611973544751592,
+                    -96.34428323571838
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.0,
+                "travel_time": 0.0,
+                "total_floors": 0,
+                "room_capacity": 605,
+                "num_students": 252,
+                "distance_saved": 0.0,
+                "time_saved": 0.0,
+                "floors_saved": 1,
+                "occupancy_improved": -0.4676816006959547,
+                "distance_saved_normalized": 1.0,
+                "time_saved_normalized": 1.0,
+                "floors_saved_normalized": 1.0,
+                "occupancy_improved_normalized": 0.0,
+                "total_score": 3.0,
+                "metrics": {
+                    "distance_saved": 0.0,
+                    "time_saved": 0.0,
+                    "floors_saved": 1,
+                    "occupancy_improved": -0.4676816006959547,
+                    "normalized": {
+                        "distance_saved_normalized": 1.0,
+                        "time_saved_normalized": 1.0,
+                        "floors_saved_normalized": 1.0,
+                        "occupancy_improved_normalized": 0.0
+                    }
+                }
+            },
+            {
+                "course_number": 321,
+                "room": "207",
+                "building": "Harrington Educ Ctr Classrooms",
+                "building_id": "438",
+                "building_location": [
+                    30.61688442919367,
+                    -96.34042969920843
+                ],
+                "start_time": "16:10",
+                "end_time": "17:25",
+                "travel_distance": 0.658921090818726,
+                "travel_time": 7.844298700222928,
+                "total_floors": 1,
+                "room_capacity": 256,
+                "num_students": 252,
+                "distance_saved": -0.658921090818726,
+                "time_saved": -7.844298700222928,
+                "floors_saved": 0,
+                "occupancy_improved": 0.10016447368421055,
+                "distance_saved_normalized": 0.0,
+                "time_saved_normalized": 0.0,
+                "floors_saved_normalized": 0.0,
+                "occupancy_improved_normalized": 1.0,
+                "total_score": 1.0,
+                "metrics": {
+                    "distance_saved": -0.658921090818726,
+                    "time_saved": -7.844298700222928,
+                    "floors_saved": 0,
+                    "occupancy_improved": 0.10016447368421055,
+                    "normalized": {
+                        "distance_saved_normalized": 0.0,
+                        "time_saved_normalized": 0.0,
+                        "floors_saved_normalized": 0.0,
+                        "occupancy_improved_normalized": 1.0
+                    }
+                }
+            }
+        ],
+        "updated_current_course": {
+            "CourseNumb": 321,
+            "SectionNumb": 502,
+            "SectionID": 54285,
+            "MeetingType": "LEC",
+            "MeetingID": 982379,
+            "DayOfWeek": "Mon",
+            "RoomNumber": "113",
+            "BuildingName": "Innovative Learning Classroom",
+            "BuildingNumber": "1543",
+            "BldgAbbr": "ILCB",
+            "Region": "N/A",
+            "NumStudents": 252,
+            "StartTimeStr": "16:10",
+            "EndTimeStr": "17:25",
+            "RoomCapacity": 285
+        }
+    }
+}

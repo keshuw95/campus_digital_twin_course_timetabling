@@ -1,0 +1,1620 @@
+{
+    "Architecture Center, Bldg C": {
+        "204AA": [
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "15:05",
+                "MeetingType": "LAB",
+                "NumStudents": 23
+            },
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "11:35",
+                "MeetingType": "LAB",
+                "NumStudents": 20
+            },
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "15:05",
+                "MeetingType": "LAB",
+                "NumStudents": 22
+            },
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "15:05",
+                "MeetingType": "LAB",
+                "NumStudents": 20
+            },
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "11:35",
+                "MeetingType": "LAB",
+                "NumStudents": 23
+            }
+        ],
+        "204BA": [
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "11:35",
+                "MeetingType": "LAB",
+                "NumStudents": 23
+            }
+        ],
+        "206AA": [
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "11:35",
+                "MeetingType": "LAB",
+                "NumStudents": 22
+            },
+            {
+                "CourseNumber": 105,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "15:05",
+                "MeetingType": "LAB",
+                "NumStudents": 18
+            }
+        ],
+        "207": [
+            {
+                "CourseNumber": 111,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 111,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 30
+            }
+        ],
+        "105": [
+            {
+                "CourseNumber": 202,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 127
+            },
+            {
+                "CourseNumber": 240,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 65
+            },
+            {
+                "CourseNumber": 281,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "18:35",
+                "MeetingType": "SEM",
+                "NumStudents": 137
+            },
+            {
+                "CourseNumber": 481,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "18:35",
+                "MeetingType": "SEM",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 630,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 1
+            }
+        ],
+        "205": [
+            {
+                "CourseNumber": 202,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 8
+            },
+            {
+                "CourseNumber": 360,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 20
+            }
+        ],
+        "111": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 18
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "15:50",
+                "MeetingType": "LEC",
+                "NumStudents": 10
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "15:50",
+                "MeetingType": "LEC",
+                "NumStudents": 19
+            },
+            {
+                "CourseNumber": 431,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:30",
+                "EndTime": "13:20",
+                "MeetingType": "LEC",
+                "NumStudents": 2
+            },
+            {
+                "CourseNumber": 431,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:40",
+                "EndTime": "12:30",
+                "MeetingType": "LEC",
+                "NumStudents": 16
+            },
+            {
+                "CourseNumber": 431,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:30",
+                "EndTime": "13:20",
+                "MeetingType": "LEC",
+                "NumStudents": 16
+            },
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 13
+            },
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 12
+            },
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 10
+            },
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 12
+            }
+        ],
+        "305": [
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "15:30",
+                "MeetingType": "LEC",
+                "NumStudents": 16
+            }
+        ]
+    },
+    "Langford Arch Center A": {
+        "300A": [
+            {
+                "CourseNumber": 111,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:50",
+                "EndTime": "14:30",
+                "MeetingType": "LAB",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 111,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:50",
+                "EndTime": "14:30",
+                "MeetingType": "LAB",
+                "NumStudents": 30
+            }
+        ],
+        "323": [
+            {
+                "CourseNumber": 202,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 11
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 18
+            },
+            {
+                "CourseNumber": 369,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 13
+            },
+            {
+                "CourseNumber": 440,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 9
+            },
+            {
+                "CourseNumber": 627,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 658,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:45",
+                "MeetingType": "LEC",
+                "NumStudents": 21
+            }
+        ],
+        "400CA": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "10:40",
+                "MeetingType": "LAB",
+                "NumStudents": 18
+            }
+        ],
+        "400DC": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "15:00",
+                "MeetingType": "LAB",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:50",
+                "EndTime": "16:30",
+                "MeetingType": "LAB",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "15:50",
+                "MeetingType": "LEC",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "15:00",
+                "MeetingType": "LAB",
+                "NumStudents": 19
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:50",
+                "EndTime": "16:30",
+                "MeetingType": "LAB",
+                "NumStudents": 19
+            }
+        ],
+        "400DB": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "15:00",
+                "MeetingType": "LAB",
+                "NumStudents": 17
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:50",
+                "EndTime": "16:30",
+                "MeetingType": "LAB",
+                "NumStudents": 17
+            }
+        ],
+        "346": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "15:50",
+                "MeetingType": "LEC",
+                "NumStudents": 17
+            },
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:30",
+                "EndTime": "12:10",
+                "MeetingType": "LEC",
+                "NumStudents": 18
+            }
+        ],
+        "400CD": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "10:40",
+                "MeetingType": "LAB",
+                "NumStudents": 13
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 13
+            }
+        ],
+        "400DA": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "10:40",
+                "MeetingType": "LAB",
+                "NumStudents": 18
+            }
+        ],
+        "400CC": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "15:00",
+                "MeetingType": "LAB",
+                "NumStudents": 10
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:50",
+                "EndTime": "16:30",
+                "MeetingType": "LAB",
+                "NumStudents": 10
+            }
+        ],
+        "400DD": [
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "10:40",
+                "MeetingType": "LAB",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 205,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 15
+            }
+        ],
+        "300B": [
+            {
+                "CourseNumber": 211,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "MeetingType": "LAB",
+                "NumStudents": 18
+            },
+            {
+                "CourseNumber": 211,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "MeetingType": "LAB",
+                "NumStudents": 19
+            },
+            {
+                "CourseNumber": 311,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:30",
+                "EndTime": "16:00",
+                "MeetingType": "LAB",
+                "NumStudents": 13
+            },
+            {
+                "CourseNumber": 311,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:30",
+                "EndTime": "16:00",
+                "MeetingType": "LAB",
+                "NumStudents": 13
+            }
+        ],
+        "348": [
+            {
+                "CourseNumber": 211,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 18
+            },
+            {
+                "CourseNumber": 211,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 19
+            },
+            {
+                "CourseNumber": 311,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 13
+            },
+            {
+                "CourseNumber": 311,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 13
+            },
+            {
+                "CourseNumber": 612,
+                "DayOfWeek": "Mon",
+                "StartTime": "14:40",
+                "EndTime": "16:00",
+                "MeetingType": "LAB",
+                "NumStudents": 12
+            },
+            {
+                "CourseNumber": 612,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 12
+            },
+            {
+                "CourseNumber": 661,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LAB",
+                "NumStudents": 16
+            },
+            {
+                "CourseNumber": 661,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 16
+            }
+        ],
+        "400AG": [
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "10:30",
+                "MeetingType": "LAB",
+                "NumStudents": 1
+            },
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "10:30",
+                "MeetingType": "LAB",
+                "NumStudents": 16
+            }
+        ],
+        "400AE": [
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:20",
+                "EndTime": "17:50",
+                "MeetingType": "LAB",
+                "NumStudents": 2
+            },
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:20",
+                "EndTime": "17:50",
+                "MeetingType": "LAB",
+                "NumStudents": 14
+            },
+            {
+                "CourseNumber": 610,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:55",
+                "EndTime": "14:35",
+                "MeetingType": "LAB",
+                "NumStudents": 20
+            },
+            {
+                "CourseNumber": 610,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:40",
+                "EndTime": "12:50",
+                "MeetingType": "LEC",
+                "NumStudents": 20
+            }
+        ],
+        "107A": [
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "10:30",
+                "MeetingType": "LAB",
+                "NumStudents": 18
+            }
+        ],
+        "400AF": [
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "MeetingType": "LAB",
+                "NumStudents": 16
+            }
+        ],
+        "107B": [
+            {
+                "CourseNumber": 405,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "10:30",
+                "MeetingType": "LAB",
+                "NumStudents": 17
+            }
+        ],
+        "302": [
+            {
+                "CourseNumber": 471,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 12
+            },
+            {
+                "CourseNumber": 641,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "15:05",
+                "MeetingType": "LEC",
+                "NumStudents": 8
+            },
+            {
+                "CourseNumber": 656,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "18:40",
+                "MeetingType": "LEC",
+                "NumStudents": 4
+            }
+        ],
+        "107C": [
+            {
+                "CourseNumber": 601,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "17:20",
+                "MeetingType": "LAB",
+                "NumStudents": 20
+            },
+            {
+                "CourseNumber": 602,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 28
+            },
+            {
+                "CourseNumber": 602,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 23
+            }
+        ],
+        "402": [
+            {
+                "CourseNumber": 601,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "18:35",
+                "MeetingType": "LEC",
+                "NumStudents": 20
+            }
+        ],
+        "300C": [
+            {
+                "CourseNumber": 601,
+                "DayOfWeek": "Mon",
+                "StartTime": "14:25",
+                "EndTime": "16:55",
+                "MeetingType": "LAB",
+                "NumStudents": 12
+            }
+        ],
+        "303": [
+            {
+                "CourseNumber": 601,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 12
+            },
+            {
+                "CourseNumber": 620,
+                "DayOfWeek": "Mon",
+                "StartTime": "14:50",
+                "EndTime": "17:50",
+                "MeetingType": "LAB",
+                "NumStudents": 4
+            },
+            {
+                "CourseNumber": 620,
+                "DayOfWeek": "Mon",
+                "StartTime": "14:00",
+                "EndTime": "14:50",
+                "MeetingType": "LEC",
+                "NumStudents": 4
+            }
+        ],
+        "400AC": [
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "18:20",
+                "MeetingType": "LAB",
+                "NumStudents": 13
+            }
+        ],
+        "400AB": [
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "11:10",
+                "MeetingType": "LAB",
+                "NumStudents": 12
+            }
+        ],
+        "400AA": [
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "18:20",
+                "MeetingType": "LAB",
+                "NumStudents": 10
+            }
+        ],
+        "400AD": [
+            {
+                "CourseNumber": 605,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "11:10",
+                "MeetingType": "LAB",
+                "NumStudents": 12
+            }
+        ],
+        "400BB": [
+            {
+                "CourseNumber": 607,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "17:10",
+                "MeetingType": "LAB",
+                "NumStudents": 9
+            }
+        ],
+        "400BC": [
+            {
+                "CourseNumber": 607,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "17:10",
+                "MeetingType": "LAB",
+                "NumStudents": 12
+            }
+        ],
+        "347": [
+            {
+                "CourseNumber": 632,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "11:40",
+                "MeetingType": "LEC",
+                "NumStudents": 20
+            }
+        ],
+        "403": [
+            {
+                "CourseNumber": 681,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "SEM",
+                "NumStudents": 10
+            }
+        ]
+    },
+    "Harrington Educ Ctr Classrooms": {
+        "207": [
+            {
+                "CourseNumber": 153,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 229
+            },
+            {
+                "CourseNumber": 375,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 40
+            },
+            {
+                "CourseNumber": 375,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 47
+            },
+            {
+                "CourseNumber": 375,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 43
+            },
+            {
+                "CourseNumber": 375,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 44
+            },
+            {
+                "CourseNumber": 375,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 40
+            }
+        ]
+    },
+    "Francis Hall": {
+        "203": [
+            {
+                "CourseNumber": 153,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 27
+            },
+            {
+                "CourseNumber": 489,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 11
+            }
+        ],
+        "103": [
+            {
+                "CourseNumber": 175,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 53
+            },
+            {
+                "CourseNumber": 175,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 48
+            },
+            {
+                "CourseNumber": 175,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 47
+            },
+            {
+                "CourseNumber": 175,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 36
+            },
+            {
+                "CourseNumber": 175,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 54
+            },
+            {
+                "CourseNumber": 175,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "15:50",
+                "MeetingType": "LEC",
+                "NumStudents": 51
+            },
+            {
+                "CourseNumber": 442,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:30",
+                "EndTime": "20:55",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 461,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 17
+            }
+        ],
+        "201": [
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 26
+            },
+            {
+                "CourseNumber": 461,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 28
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 24
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 24
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            }
+        ],
+        "204": [
+            {
+                "CourseNumber": 303,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 43
+            },
+            {
+                "CourseNumber": 450,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 38
+            },
+            {
+                "CourseNumber": 450,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 8
+            },
+            {
+                "CourseNumber": 608,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 622,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 16
+            }
+        ],
+        "102": [
+            {
+                "CourseNumber": 421,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 104
+            },
+            {
+                "CourseNumber": 477,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 65
+            },
+            {
+                "CourseNumber": 477,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 68
+            }
+        ],
+        "112": [
+            {
+                "CourseNumber": 440,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:30",
+                "EndTime": "20:55",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 464,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 36
+            },
+            {
+                "CourseNumber": 642,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 23
+            }
+        ],
+        "105": [
+            {
+                "CourseNumber": 443,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:30",
+                "EndTime": "20:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 24
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 463,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:50",
+                "MeetingType": "LEC",
+                "NumStudents": 9
+            }
+        ]
+    },
+    "Oceanography & Meteorology": {
+        "110": [
+            {
+                "CourseNumber": 201,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 28
+            }
+        ]
+    },
+    "Student Computing Center": {
+        "4.102B": [
+            {
+                "CourseNumber": 220,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 38
+            },
+            {
+                "CourseNumber": 624,
+                "DayOfWeek": "Mon",
+                "StartTime": "09:10",
+                "EndTime": "10:00",
+                "MeetingType": "LEC",
+                "NumStudents": 5
+            }
+        ]
+    },
+    "Innovative Learning Classroom": {
+        "113": [
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 24
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 24
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 24
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 20
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 21
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 19
+            },
+            {
+                "CourseNumber": 222,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 18
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 2
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 4
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            },
+            {
+                "CourseNumber": 322,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "19:00",
+                "MeetingType": "LEC",
+                "NumStudents": 3
+            }
+        ]
+    },
+    "Architecture Center, Bldg B": {
+        "101": [
+            {
+                "CourseNumber": 253,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:20",
+                "MeetingType": "LEC",
+                "NumStudents": 201
+            },
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 30
+            },
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 30
+            },
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 16
+            },
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 29
+            },
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 30
+            },
+            {
+                "CourseNumber": 301,
+                "DayOfWeek": "Mon",
+                "StartTime": "12:40",
+                "EndTime": "13:30",
+                "MeetingType": "LEC",
+                "NumStudents": 30
+            },
+            {
+                "CourseNumber": 607,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "18:35",
+                "MeetingType": "LEC",
+                "NumStudents": 9
+            },
+            {
+                "CourseNumber": 607,
+                "DayOfWeek": "Mon",
+                "StartTime": "17:45",
+                "EndTime": "18:35",
+                "MeetingType": "LEC",
+                "NumStudents": 12
+            }
+        ]
+    },
+    "Instr Lab & Innov Learning Ctr": {
+        "E111": [
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "11:10",
+                "MeetingType": "LAB",
+                "NumStudents": 16
+            },
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:50",
+                "EndTime": "11:10",
+                "MeetingType": "LAB",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "08:00",
+                "EndTime": "08:45",
+                "MeetingType": "LEC",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "14:50",
+                "EndTime": "17:10",
+                "MeetingType": "LAB",
+                "NumStudents": 14
+            },
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 14
+            }
+        ],
+        "W103": [
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "14:50",
+                "EndTime": "17:10",
+                "MeetingType": "LAB",
+                "NumStudents": 15
+            },
+            {
+                "CourseNumber": 305,
+                "DayOfWeek": "Mon",
+                "StartTime": "13:50",
+                "EndTime": "14:40",
+                "MeetingType": "LEC",
+                "NumStudents": 15
+            }
+        ]
+    },
+    "Interdisciplinary Life Sc Bldg": {
+        "1105": [
+            {
+                "CourseNumber": 321,
+                "DayOfWeek": "Mon",
+                "StartTime": "16:10",
+                "EndTime": "17:25",
+                "MeetingType": "LEC",
+                "NumStudents": 252
+            }
+        ]
+    },
+    "Chemistry Building": {
+        "100": [
+            {
+                "CourseNumber": 325,
+                "DayOfWeek": "Mon",
+                "StartTime": "10:20",
+                "EndTime": "11:10",
+                "MeetingType": "LEC",
+                "NumStudents": 260
+            }
+        ]
+    },
+    "Allen Building": {
+        "1015": [
+            {
+                "CourseNumber": 658,
+                "DayOfWeek": "Mon",
+                "StartTime": "11:30",
+                "EndTime": "12:45",
+                "MeetingType": "LEC",
+                "NumStudents": 25
+            }
+        ]
+    },
+    "Jack E. Brown Chem Engn Bldg": {
+        "102": [
+            {
+                "CourseNumber": 681,
+                "DayOfWeek": "Mon",
+                "StartTime": "15:00",
+                "EndTime": "15:50",
+                "MeetingType": "SEM",
+                "NumStudents": 56
+            }
+        ]
+    }
+}
