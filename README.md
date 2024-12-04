@@ -16,4 +16,18 @@ python course_timetabling.py --course_list [list_of_courses] \
     --origin_building_name [building_name] \
     --selection_indices [list_of_indices] \
     --topk [number_of_alternatives]
-
+```
+## Example
+```bash
+python course_timetabling.py --course_list 325 661 463 612 321 \
+    --origin_lat_lon 30.61507082693666 -96.34047976538754 \
+    --origin_building_name "Nagle Hall" \
+    --selection_indices 1 4 6 4 1 \
+    --topk 10
+```
+## Arguments
+- --course_list: List of course IDs in the sequence.
+- --origin_lat_lon: Latitude and longitude of the origin.
+- --origin_building_name: Name of the origin building.
+- --selection_indices: List of indices for manually selecting room alternatives.
+- --topk: Number of top room alternatives to consider for each course.
