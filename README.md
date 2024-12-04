@@ -1,4 +1,4 @@
-# Course Timetabling Optimization README
+# Course Timetabling Optimization
 
 ## Overview
 This repository contains the Python implementation for dynamic course timetabling optimization. The program identifies the optimal schedule by analyzing travel distances, room capacities, occupancy rates, and other constraints.
@@ -26,11 +26,11 @@ python course_timetabling.py --course_list 325 661 463 612 321 \
     --topk 10
 ```
 ## Arguments
-- --course_list: List of course IDs in the sequence.
-- --origin_lat_lon: Latitude and longitude of the origin.
-- --origin_building_name: Name of the origin building.
-- --selection_indices: List of indices for manually selecting room alternatives.
-- --topk: Number of top room alternatives to consider for each course.
+- `--course_list`: List of course IDs in the sequence.
+- `--origin_lat_lon`: Latitude and longitude of the origin.
+- `--origin_building_name`: Name of the origin building.
+- `--selection_indices`: List of indices for manually selecting room alternatives.
+- `--topk`: Number of top room alternatives to consider for each course.
 
 ## Output
 The program generates a JSON file containing detailed scheduling information, including metrics and normalized scores for each alternative.
@@ -39,12 +39,12 @@ The program generates a JSON file containing detailed scheduling information, in
 The output JSON contains scheduling details for the origin and each course. Below is the structure:
 
 ### Keys Explanation
-original_current_course: The original course details before optimization for the current course.
-- original_next_course: The original course details before optimization for the next course.
-- original_options_for_next_course: A list of all possible room alternatives for the next course, including metrics and normalized scores.
-- updated_current_course: The updated course details after optimization for the current course.
-- updated_options_for_next_course: A list of all possible room alternatives for the next course based on the optimized current course location.
-- updated_next_course: The selected optimized room and location for the next course.
+- `original_current_course`: The original course details before optimization for the current course.
+- `original_next_course`: The original course details before optimization for the next course.
+- `original_options_for_next_course`: A list of all possible room alternatives for the next course, including metrics and normalized scores.
+- `updated_current_course`: The updated course details after optimization for the current course.
+- `updated_options_for_next_course`: A list of all possible room alternatives for the next course based on the optimized current course location.
+- `updated_next_course`: The selected optimized room and location for the next course.
 
 ### Origin
 ```bash
@@ -121,17 +121,17 @@ original_current_course: The original course details before optimization for the
 
 ## Key Metrics
 Each alternative includes:
-- distance_saved: Distance saved (in km).
-- time_saved: Time saved (in minutes).
-- floors_saved: Number of floors saved.
-- occupancy_improved: Improvement in room occupancy rate.
+- `distance_saved`: Distance saved (in km).
+- `time_saved`: Time saved (in minutes).
+- `floors_saved`: Number of floors saved.
+- `occupancy_improved`: Improvement in room occupancy rate.
 
 ### Normalization
 - Normalized metrics scale values between 0 and 1.
-- distance_saved_normalized, time_saved_normalized, floors_saved_normalized, occupancy_improved_normalized.
+- `distance_saved_normalized`, `time_saved_normalized`, `floors_saved_normalized`, `occupancy_improved_normalized`.
 
 ### Total Score
-- The total_score is a composite score calculated by summing the normalized metrics:
+- The `total_score` is a composite score calculated by summing the normalized metrics:
 ```bash
 total_score = distance_saved_normalized 
               + time_saved_normalized 
@@ -139,16 +139,16 @@ total_score = distance_saved_normalized
               + occupancy_improved_normalized
 ```
 - This score represents the overall suitability of an alternative, with higher scores indicating better options.
-- Alternatives are ranked based on the total_score.
+- Alternatives are ranked based on the `total_score`.
 
-### Using selection_indices
+### Using `selection_indices`
 - The selection_indices argument specifies which alternative to select for each course.
-- Example:
+- For example:
 - ```bash
   selection_indices = [1, 4, 6, 4, 1]
   ```
   indicates:
-    - Use the 2nd alternative (index = 1) for the first course.
-    - Use the 5th alternative (index = 4) for the second course, and so on.
-- The program dynamically updates the schedule based on the chosen alternatives from selection_indices.
+    - Use the 2nd alternative (`index = 1`) for the first course.
+    - Use the 5th alternative (`index = 4`) for the second course, and so on.
+- The program dynamically updates the schedule based on the chosen alternatives from `selection_indices`.
 - If an index is out of bounds or no valid option is available, the program skips that course or uses a default fallback.
